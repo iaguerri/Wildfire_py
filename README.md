@@ -11,8 +11,9 @@ The analysis done were
   - Wildfire analysis
   - True color and SCP (ESA algorithm)
 
-![NBR before fire](Pictures/NBR_pre) | ![NBR post fire](Pictures/NBR_posti)
+<img src= "Pictures/NBR_pre.png" width= "300"/> <image src= "Pictures/NBR_posti.png" width= "300">
 
+<img src= "Pictures/SWIR_pre.png" width= "300"/> <image src= "Pictures/SWIR_post.png" width= "300">
 
 
 
